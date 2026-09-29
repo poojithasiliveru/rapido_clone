@@ -1,0 +1,24 @@
+*{
+    /*border:1px solid;*/
+}
+#navbarSupportedContent{
+    margin-left:11%;
+}
+.download{
+    border-radius: 25px 25px 4px 25px !important;
+    font-weight: bold !important;
+}
+#box1{
+    width: 65px;
+    height: 4px;
+    background-color: black;
+}
+.section1 h1{
+    font-size: 50px;
+}
+.section1 p{
+    font-size: 25px;
+}
+.section1 button{
+    font-size: 25px;
+}
