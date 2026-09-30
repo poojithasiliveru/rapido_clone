@@ -21,4 +21,51 @@
 }
 .section1 button{
     font-size: 25px;
+    border-radius: 10px;
+}
+.section3 img{
+    width: 100%;
+}
+.section3 h1{
+    font-size: 50px; 
+}
+
+#box2{
+    width: 85px;
+    height: 4px;
+    background-color:gold;
+}
+.section4 h1{
+    font-size: 50px;
+}
+#box3{
+    width: 120px;
+    height: 4px;
+    background-color:gold;
+    margin-bottom: 20px;
+}
+.section5{
+    background: rgb(30, 75, 130);
+}
+.section5 h1{
+    font-size: 56px;
+}
+.section5 p{
+    font-size: 36px;
+}
+.section5 button{
+    border-radius: 30px;
+    font-size: 30px;
+    padding: 5px;
+}
+#box4{
+    width: 150px;
+    height: 4px;
+    background-color:gold;
+}
+.section6{
+    background-color: rgb(245, 245, 245);
+}
+.section6 h1{
+    font-size: 50px;
 }
