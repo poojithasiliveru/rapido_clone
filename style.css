@@ -69,3 +69,21 @@
 .section6 h1{
     font-size: 50px;
 }
+.section7 img{
+    margin-top: 10px;
+}
+.social-icons {
+    display: flex;
+    gap: 22px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+.social-icons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 22px;
+}
